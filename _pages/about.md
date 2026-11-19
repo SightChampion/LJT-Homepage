@@ -15,8 +15,7 @@ Education
   * HKUST NLP Group; supervised by Professor Junxian He
 * **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020-2024
   * Graduated in June 2024
-* **Honor**
-  * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+* **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 Research Experience
 ======
